@@ -11,3 +11,5 @@ Not: Bunları nerden bulacağınızı bilmiyorsanız teker teker YouTube'dan bak
 URL müsait olunca sizin için URL'yi çalıp sunucunuza koyacaktır.
 
 -TYKSniper
+
+![image](https://github.com/t2rker/discord-url-sniper/assets/86050476/22cc61f9-bb8b-4bd0-8a04-b9dbec37164b)
